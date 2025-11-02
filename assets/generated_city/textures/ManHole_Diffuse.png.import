@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://m466xausg3xw"
 path.s3tc="res://.godot/imported/ManHole_Diffuse.png-34313e6bbbbee1721ccf81125d94b17f.s3tc.ctex"
+path.etc2="res://.godot/imported/ManHole_Diffuse.png-34313e6bbbbee1721ccf81125d94b17f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/ManHole_Diffuse.png"
-dest_files=["res://.godot/imported/ManHole_Diffuse.png-34313e6bbbbee1721ccf81125d94b17f.s3tc.ctex"]
+dest_files=["res://.godot/imported/ManHole_Diffuse.png-34313e6bbbbee1721ccf81125d94b17f.s3tc.ctex", "res://.godot/imported/ManHole_Diffuse.png-34313e6bbbbee1721ccf81125d94b17f.etc2.ctex"]
 
 [params]
 

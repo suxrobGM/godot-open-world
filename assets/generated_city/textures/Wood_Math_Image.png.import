@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvpl6qh66vw54"
 path.s3tc="res://.godot/imported/Wood_Math_Image.png-1c4a1b9ce37ab8d422b9fc77fbecaf0f.s3tc.ctex"
+path.etc2="res://.godot/imported/Wood_Math_Image.png-1c4a1b9ce37ab8d422b9fc77fbecaf0f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Wood_Math_Image.png"
-dest_files=["res://.godot/imported/Wood_Math_Image.png-1c4a1b9ce37ab8d422b9fc77fbecaf0f.s3tc.ctex"]
+dest_files=["res://.godot/imported/Wood_Math_Image.png-1c4a1b9ce37ab8d422b9fc77fbecaf0f.s3tc.ctex", "res://.godot/imported/Wood_Math_Image.png-1c4a1b9ce37ab8d422b9fc77fbecaf0f.etc2.ctex"]
 
 [params]
 

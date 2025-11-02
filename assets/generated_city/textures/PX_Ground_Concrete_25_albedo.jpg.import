@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2el3uwcyfyw7"
 path.s3tc="res://.godot/imported/PX_Ground_Concrete_25_albedo.jpg-8267368135c7299f777e61353dde7b6f.s3tc.ctex"
+path.etc2="res://.godot/imported/PX_Ground_Concrete_25_albedo.jpg-8267368135c7299f777e61353dde7b6f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/PX_Ground_Concrete_25_albedo.jpg"
-dest_files=["res://.godot/imported/PX_Ground_Concrete_25_albedo.jpg-8267368135c7299f777e61353dde7b6f.s3tc.ctex"]
+dest_files=["res://.godot/imported/PX_Ground_Concrete_25_albedo.jpg-8267368135c7299f777e61353dde7b6f.s3tc.ctex", "res://.godot/imported/PX_Ground_Concrete_25_albedo.jpg-8267368135c7299f777e61353dde7b6f.etc2.ctex"]
 
 [params]
 

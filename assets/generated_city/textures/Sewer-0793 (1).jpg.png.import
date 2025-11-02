@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bitqe6112uuaf"
 path.s3tc="res://.godot/imported/Sewer-0793 (1).jpg.png-a2811ea2c16c76447d163335d68f9a7e.s3tc.ctex"
+path.etc2="res://.godot/imported/Sewer-0793 (1).jpg.png-a2811ea2c16c76447d163335d68f9a7e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Sewer-0793 (1).jpg.png"
-dest_files=["res://.godot/imported/Sewer-0793 (1).jpg.png-a2811ea2c16c76447d163335d68f9a7e.s3tc.ctex"]
+dest_files=["res://.godot/imported/Sewer-0793 (1).jpg.png-a2811ea2c16c76447d163335d68f9a7e.s3tc.ctex", "res://.godot/imported/Sewer-0793 (1).jpg.png-a2811ea2c16c76447d163335d68f9a7e.etc2.ctex"]
 
 [params]
 

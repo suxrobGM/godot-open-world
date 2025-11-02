@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnhscgar6q3nn"
 path.s3tc="res://.godot/imported/apole (73).jpg.jpg-d754cb58dc7bb1f9f34c192b69920ba4.s3tc.ctex"
+path.etc2="res://.godot/imported/apole (73).jpg.jpg-d754cb58dc7bb1f9f34c192b69920ba4.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/apole (73).jpg.jpg"
-dest_files=["res://.godot/imported/apole (73).jpg.jpg-d754cb58dc7bb1f9f34c192b69920ba4.s3tc.ctex"]
+dest_files=["res://.godot/imported/apole (73).jpg.jpg-d754cb58dc7bb1f9f34c192b69920ba4.s3tc.ctex", "res://.godot/imported/apole (73).jpg.jpg-d754cb58dc7bb1f9f34c192b69920ba4.etc2.ctex"]
 
 [params]
 

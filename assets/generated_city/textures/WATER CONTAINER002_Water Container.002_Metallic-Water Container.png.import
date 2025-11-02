@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://we5qaag80cd8"
 path.s3tc="res://.godot/imported/WATER CONTAINER002_Water Container.002_Metallic-Water Container.png-c17e7dc46efea78e5f554a40598fd389.s3tc.ctex"
+path.etc2="res://.godot/imported/WATER CONTAINER002_Water Container.002_Metallic-Water Container.png-c17e7dc46efea78e5f554a40598fd389.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/WATER CONTAINER002_Water Container.002_Metallic-Water Container.png"
-dest_files=["res://.godot/imported/WATER CONTAINER002_Water Container.002_Metallic-Water Container.png-c17e7dc46efea78e5f554a40598fd389.s3tc.ctex"]
+dest_files=["res://.godot/imported/WATER CONTAINER002_Water Container.002_Metallic-Water Container.png-c17e7dc46efea78e5f554a40598fd389.s3tc.ctex", "res://.godot/imported/WATER CONTAINER002_Water Container.002_Metallic-Water Container.png-c17e7dc46efea78e5f554a40598fd389.etc2.ctex"]
 
 [params]
 

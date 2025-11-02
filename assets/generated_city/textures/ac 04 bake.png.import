@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cftnpl0n62k17"
 path.s3tc="res://.godot/imported/ac 04 bake.png-7fca2053674eb83ecc332953887ad510.s3tc.ctex"
+path.etc2="res://.godot/imported/ac 04 bake.png-7fca2053674eb83ecc332953887ad510.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/ac 04 bake.png"
-dest_files=["res://.godot/imported/ac 04 bake.png-7fca2053674eb83ecc332953887ad510.s3tc.ctex"]
+dest_files=["res://.godot/imported/ac 04 bake.png-7fca2053674eb83ecc332953887ad510.s3tc.ctex", "res://.godot/imported/ac 04 bake.png-7fca2053674eb83ecc332953887ad510.etc2.ctex"]
 
 [params]
 

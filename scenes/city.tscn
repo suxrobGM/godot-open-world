@@ -1,19 +1,20 @@
 [gd_scene load_steps=6 format=3 uid="uid://b4lc7waoth8v8"]
 
-[ext_resource type="Script" uid="uid://ccmcpfmbgtcmt" path="res://src/main/kotlin/godot/HelloGodot.kt" id="1_a202f"]
-[ext_resource type="Script" uid="uid://0ux42p3q0ddr" path="res://src/main/kotlin/godot/PlayerController.kt" id="2_player"]
-[ext_resource type="PackedScene" uid="uid://bodnc7bnln7vb" path="res://assets/generated_city/generated_city.gltf" id="3_a0tk4"]
+[ext_resource type="Script" uid="uid://ccmcpfmbgtcmt" path="res://src/main/kotlin/godot/HelloGodot.kt" id="1_rqxma"]
+[ext_resource type="Script" uid="uid://0ux42p3q0ddr" path="res://src/main/kotlin/godot/PlayerController.kt" id="2_movw8"]
+[ext_resource type="PackedScene" uid="uid://bodnc7bnln7vb" path="res://assets/generated_city/generated_city.gltf" id="3_oacpt"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_player"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape_player"]
 
 [node name="Node3D" type="Node3D"]
-script = ExtResource("1_a202f")
+script = ExtResource("1_rqxma")
+hello_string = null
 
 [node name="Player" type="CharacterBody3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0751, 34.42)
-script = ExtResource("2_player")
+script = ExtResource("2_movw8")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="Player"]
 mesh = SubResource("CapsuleMesh_player")
@@ -32,4 +33,4 @@ transform = Transform3D(0.866025, -0.433013, 0.25, 0, 0.5, 0.866025, -0.5, -0.75
 light_energy = 1.5
 shadow_enabled = true
 
-[node name="generated_city" parent="." instance=ExtResource("3_a0tk4")]
+[node name="City" parent="." instance=ExtResource("3_oacpt")]

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd0h8av6govhw"
 path.s3tc="res://.godot/imported/Plane.018.W_Bake1_PBR StoA_Normal.jpg-f445c592cd67d0b0e745eb9e688e19b6.s3tc.ctex"
+path.etc2="res://.godot/imported/Plane.018.W_Bake1_PBR StoA_Normal.jpg-f445c592cd67d0b0e745eb9e688e19b6.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Plane.018.W_Bake1_PBR StoA_Normal.jpg"
-dest_files=["res://.godot/imported/Plane.018.W_Bake1_PBR StoA_Normal.jpg-f445c592cd67d0b0e745eb9e688e19b6.s3tc.ctex"]
+dest_files=["res://.godot/imported/Plane.018.W_Bake1_PBR StoA_Normal.jpg-f445c592cd67d0b0e745eb9e688e19b6.s3tc.ctex", "res://.godot/imported/Plane.018.W_Bake1_PBR StoA_Normal.jpg-f445c592cd67d0b0e745eb9e688e19b6.etc2.ctex"]
 
 [params]
 

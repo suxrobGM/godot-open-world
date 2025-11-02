@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck7rrkpqlynxf"
 path.s3tc="res://.godot/imported/Untitled.png-d7beb1dbcc6c8ccc8e045e838d76bf58.s3tc.ctex"
+path.etc2="res://.godot/imported/Untitled.png-d7beb1dbcc6c8ccc8e045e838d76bf58.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Untitled.png"
-dest_files=["res://.godot/imported/Untitled.png-d7beb1dbcc6c8ccc8e045e838d76bf58.s3tc.ctex"]
+dest_files=["res://.godot/imported/Untitled.png-d7beb1dbcc6c8ccc8e045e838d76bf58.s3tc.ctex", "res://.godot/imported/Untitled.png-d7beb1dbcc6c8ccc8e045e838d76bf58.etc2.ctex"]
 
 [params]
 

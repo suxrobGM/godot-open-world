@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5jcb5ljp6gn2"
 path.s3tc="res://.godot/imported/zwolffi6k.jpg.jpg-62898eb97695fce49136cacc855c908c.s3tc.ctex"
+path.etc2="res://.godot/imported/zwolffi6k.jpg.jpg-62898eb97695fce49136cacc855c908c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/zwolffi6k.jpg.jpg"
-dest_files=["res://.godot/imported/zwolffi6k.jpg.jpg-62898eb97695fce49136cacc855c908c.s3tc.ctex"]
+dest_files=["res://.godot/imported/zwolffi6k.jpg.jpg-62898eb97695fce49136cacc855c908c.s3tc.ctex", "res://.godot/imported/zwolffi6k.jpg.jpg-62898eb97695fce49136cacc855c908c.etc2.ctex"]
 
 [params]
 

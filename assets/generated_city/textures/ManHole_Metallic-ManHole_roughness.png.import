@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://2rc6r64agok"
 path.s3tc="res://.godot/imported/ManHole_Metallic-ManHole_roughness.png-438b099e3a108bc49b6a8fc23556cb6f.s3tc.ctex"
+path.etc2="res://.godot/imported/ManHole_Metallic-ManHole_roughness.png-438b099e3a108bc49b6a8fc23556cb6f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/ManHole_Metallic-ManHole_roughness.png"
-dest_files=["res://.godot/imported/ManHole_Metallic-ManHole_roughness.png-438b099e3a108bc49b6a8fc23556cb6f.s3tc.ctex"]
+dest_files=["res://.godot/imported/ManHole_Metallic-ManHole_roughness.png-438b099e3a108bc49b6a8fc23556cb6f.s3tc.ctex", "res://.godot/imported/ManHole_Metallic-ManHole_roughness.png-438b099e3a108bc49b6a8fc23556cb6f.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4s5epfslk3hj"
 path.s3tc="res://.godot/imported/dseemless (7).jpg.jpg-b20cb7ff886dd22f4b27f93000218a30.s3tc.ctex"
+path.etc2="res://.godot/imported/dseemless (7).jpg.jpg-b20cb7ff886dd22f4b27f93000218a30.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/dseemless (7).jpg.jpg"
-dest_files=["res://.godot/imported/dseemless (7).jpg.jpg-b20cb7ff886dd22f4b27f93000218a30.s3tc.ctex"]
+dest_files=["res://.godot/imported/dseemless (7).jpg.jpg-b20cb7ff886dd22f4b27f93000218a30.s3tc.ctex", "res://.godot/imported/dseemless (7).jpg.jpg-b20cb7ff886dd22f4b27f93000218a30.etc2.ctex"]
 
 [params]
 

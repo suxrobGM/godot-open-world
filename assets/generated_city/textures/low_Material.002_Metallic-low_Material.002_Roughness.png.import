@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkwlncggvqd6e"
 path.s3tc="res://.godot/imported/low_Material.002_Metallic-low_Material.002_Roughness.png-4b776a87c045a871090acf5c94654e5b.s3tc.ctex"
+path.etc2="res://.godot/imported/low_Material.002_Metallic-low_Material.002_Roughness.png-4b776a87c045a871090acf5c94654e5b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/low_Material.002_Metallic-low_Material.002_Roughness.png"
-dest_files=["res://.godot/imported/low_Material.002_Metallic-low_Material.002_Roughness.png-4b776a87c045a871090acf5c94654e5b.s3tc.ctex"]
+dest_files=["res://.godot/imported/low_Material.002_Metallic-low_Material.002_Roughness.png-4b776a87c045a871090acf5c94654e5b.s3tc.ctex", "res://.godot/imported/low_Material.002_Metallic-low_Material.002_Roughness.png-4b776a87c045a871090acf5c94654e5b.etc2.ctex"]
 
 [params]
 

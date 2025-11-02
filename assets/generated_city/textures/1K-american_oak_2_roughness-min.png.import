@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkwixnt51a633"
 path.s3tc="res://.godot/imported/1K-american_oak_2_roughness-min.png-da9a245bf2b7e16d52ba48c2cd3a564b.s3tc.ctex"
+path.etc2="res://.godot/imported/1K-american_oak_2_roughness-min.png-da9a245bf2b7e16d52ba48c2cd3a564b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/1K-american_oak_2_roughness-min.png"
-dest_files=["res://.godot/imported/1K-american_oak_2_roughness-min.png-da9a245bf2b7e16d52ba48c2cd3a564b.s3tc.ctex"]
+dest_files=["res://.godot/imported/1K-american_oak_2_roughness-min.png-da9a245bf2b7e16d52ba48c2cd3a564b.s3tc.ctex", "res://.godot/imported/1K-american_oak_2_roughness-min.png-da9a245bf2b7e16d52ba48c2cd3a564b.etc2.ctex"]
 
 [params]
 

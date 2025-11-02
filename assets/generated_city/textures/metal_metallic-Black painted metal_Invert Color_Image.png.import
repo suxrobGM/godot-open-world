@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmocvphgcx1rm"
 path.s3tc="res://.godot/imported/metal_metallic-Black painted metal_Invert Color_Image.png-95377323b1badc4de551ab1edb6c346b.s3tc.ctex"
+path.etc2="res://.godot/imported/metal_metallic-Black painted metal_Invert Color_Image.png-95377323b1badc4de551ab1edb6c346b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/metal_metallic-Black painted metal_Invert Color_Image.png"
-dest_files=["res://.godot/imported/metal_metallic-Black painted metal_Invert Color_Image.png-95377323b1badc4de551ab1edb6c346b.s3tc.ctex"]
+dest_files=["res://.godot/imported/metal_metallic-Black painted metal_Invert Color_Image.png-95377323b1badc4de551ab1edb6c346b.s3tc.ctex", "res://.godot/imported/metal_metallic-Black painted metal_Invert Color_Image.png-95377323b1badc4de551ab1edb6c346b.etc2.ctex"]
 
 [params]
 

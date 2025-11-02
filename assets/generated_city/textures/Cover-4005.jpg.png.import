@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2lo26n1g2mpd"
 path.s3tc="res://.godot/imported/Cover-4005.jpg.png-5830959e731aa520bd9d2044ffd92b48.s3tc.ctex"
+path.etc2="res://.godot/imported/Cover-4005.jpg.png-5830959e731aa520bd9d2044ffd92b48.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Cover-4005.jpg.png"
-dest_files=["res://.godot/imported/Cover-4005.jpg.png-5830959e731aa520bd9d2044ffd92b48.s3tc.ctex"]
+dest_files=["res://.godot/imported/Cover-4005.jpg.png-5830959e731aa520bd9d2044ffd92b48.s3tc.ctex", "res://.godot/imported/Cover-4005.jpg.png-5830959e731aa520bd9d2044ffd92b48.etc2.ctex"]
 
 [params]
 

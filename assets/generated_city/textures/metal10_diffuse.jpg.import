@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://f1k3wfoayg5a"
 path.s3tc="res://.godot/imported/metal10_diffuse.jpg-c21aed80e26708d9f806983ac3c556c4.s3tc.ctex"
+path.etc2="res://.godot/imported/metal10_diffuse.jpg-c21aed80e26708d9f806983ac3c556c4.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/metal10_diffuse.jpg"
-dest_files=["res://.godot/imported/metal10_diffuse.jpg-c21aed80e26708d9f806983ac3c556c4.s3tc.ctex"]
+dest_files=["res://.godot/imported/metal10_diffuse.jpg-c21aed80e26708d9f806983ac3c556c4.s3tc.ctex", "res://.godot/imported/metal10_diffuse.jpg-c21aed80e26708d9f806983ac3c556c4.etc2.ctex"]
 
 [params]
 

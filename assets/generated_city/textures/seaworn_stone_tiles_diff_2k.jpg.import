@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bauax53guqbgv"
 path.s3tc="res://.godot/imported/seaworn_stone_tiles_diff_2k.jpg-1025731fedbddd12476cec9faae221b5.s3tc.ctex"
+path.etc2="res://.godot/imported/seaworn_stone_tiles_diff_2k.jpg-1025731fedbddd12476cec9faae221b5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/seaworn_stone_tiles_diff_2k.jpg"
-dest_files=["res://.godot/imported/seaworn_stone_tiles_diff_2k.jpg-1025731fedbddd12476cec9faae221b5.s3tc.ctex"]
+dest_files=["res://.godot/imported/seaworn_stone_tiles_diff_2k.jpg-1025731fedbddd12476cec9faae221b5.s3tc.ctex", "res://.godot/imported/seaworn_stone_tiles_diff_2k.jpg-1025731fedbddd12476cec9faae221b5.etc2.ctex"]
 
 [params]
 

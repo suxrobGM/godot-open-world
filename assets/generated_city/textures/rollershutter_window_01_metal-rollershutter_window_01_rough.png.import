@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://pyyawv6ohnvo"
 path.s3tc="res://.godot/imported/rollershutter_window_01_metal-rollershutter_window_01_rough.png-06a0f52750536d0a811a71f12dd1f022.s3tc.ctex"
+path.etc2="res://.godot/imported/rollershutter_window_01_metal-rollershutter_window_01_rough.png-06a0f52750536d0a811a71f12dd1f022.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/rollershutter_window_01_metal-rollershutter_window_01_rough.png"
-dest_files=["res://.godot/imported/rollershutter_window_01_metal-rollershutter_window_01_rough.png-06a0f52750536d0a811a71f12dd1f022.s3tc.ctex"]
+dest_files=["res://.godot/imported/rollershutter_window_01_metal-rollershutter_window_01_rough.png-06a0f52750536d0a811a71f12dd1f022.s3tc.ctex", "res://.godot/imported/rollershutter_window_01_metal-rollershutter_window_01_rough.png-06a0f52750536d0a811a71f12dd1f022.etc2.ctex"]
 
 [params]
 

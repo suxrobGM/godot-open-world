@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgdmwg7cywssr"
 path.s3tc="res://.godot/imported/fence02_Bake1_PBR StoA_Metalness.jpg-fence02_Bake1_PBR StoA_Roughness.jpg.png-c2eb614496fdca1d9a1b01d980689bf8.s3tc.ctex"
+path.etc2="res://.godot/imported/fence02_Bake1_PBR StoA_Metalness.jpg-fence02_Bake1_PBR StoA_Roughness.jpg.png-c2eb614496fdca1d9a1b01d980689bf8.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/fence02_Bake1_PBR StoA_Metalness.jpg-fence02_Bake1_PBR StoA_Roughness.jpg.png"
-dest_files=["res://.godot/imported/fence02_Bake1_PBR StoA_Metalness.jpg-fence02_Bake1_PBR StoA_Roughness.jpg.png-c2eb614496fdca1d9a1b01d980689bf8.s3tc.ctex"]
+dest_files=["res://.godot/imported/fence02_Bake1_PBR StoA_Metalness.jpg-fence02_Bake1_PBR StoA_Roughness.jpg.png-c2eb614496fdca1d9a1b01d980689bf8.s3tc.ctex", "res://.godot/imported/fence02_Bake1_PBR StoA_Metalness.jpg-fence02_Bake1_PBR StoA_Roughness.jpg.png-c2eb614496fdca1d9a1b01d980689bf8.etc2.ctex"]
 
 [params]
 

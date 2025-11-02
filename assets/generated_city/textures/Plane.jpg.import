@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bifp0g177i1tl"
 path.s3tc="res://.godot/imported/Plane.jpg-79d493681da5203210798986daa2d83e.s3tc.ctex"
+path.etc2="res://.godot/imported/Plane.jpg-79d493681da5203210798986daa2d83e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Plane.jpg"
-dest_files=["res://.godot/imported/Plane.jpg-79d493681da5203210798986daa2d83e.s3tc.ctex"]
+dest_files=["res://.godot/imported/Plane.jpg-79d493681da5203210798986daa2d83e.s3tc.ctex", "res://.godot/imported/Plane.jpg-79d493681da5203210798986daa2d83e.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ha34145w6mhb"
 path.s3tc="res://.godot/imported/SOLAR PANEL_SOLAR PANEL_Metallic-SOLAR PANEL_SOLAR PANEL_Roughness.png-ded8ff22fc6f64b428b9fe4119c70adc.s3tc.ctex"
+path.etc2="res://.godot/imported/SOLAR PANEL_SOLAR PANEL_Metallic-SOLAR PANEL_SOLAR PANEL_Roughness.png-ded8ff22fc6f64b428b9fe4119c70adc.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/SOLAR PANEL_SOLAR PANEL_Metallic-SOLAR PANEL_SOLAR PANEL_Roughness.png"
-dest_files=["res://.godot/imported/SOLAR PANEL_SOLAR PANEL_Metallic-SOLAR PANEL_SOLAR PANEL_Roughness.png-ded8ff22fc6f64b428b9fe4119c70adc.s3tc.ctex"]
+dest_files=["res://.godot/imported/SOLAR PANEL_SOLAR PANEL_Metallic-SOLAR PANEL_SOLAR PANEL_Roughness.png-ded8ff22fc6f64b428b9fe4119c70adc.s3tc.ctex", "res://.godot/imported/SOLAR PANEL_SOLAR PANEL_Metallic-SOLAR PANEL_SOLAR PANEL_Roughness.png-ded8ff22fc6f64b428b9fe4119c70adc.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://buu60lkows4m4"
 path.s3tc="res://.godot/imported/Plane.018_Plane_Material_Bake_Roughness.png-cb36fabd73a1e0f5e4b992818bb5cd4c.s3tc.ctex"
+path.etc2="res://.godot/imported/Plane.018_Plane_Material_Bake_Roughness.png-cb36fabd73a1e0f5e4b992818bb5cd4c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Plane.018_Plane_Material_Bake_Roughness.png"
-dest_files=["res://.godot/imported/Plane.018_Plane_Material_Bake_Roughness.png-cb36fabd73a1e0f5e4b992818bb5cd4c.s3tc.ctex"]
+dest_files=["res://.godot/imported/Plane.018_Plane_Material_Bake_Roughness.png-cb36fabd73a1e0f5e4b992818bb5cd4c.s3tc.ctex", "res://.godot/imported/Plane.018_Plane_Material_Bake_Roughness.png-cb36fabd73a1e0f5e4b992818bb5cd4c.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://glimpsam0xwc"
 path.s3tc="res://.godot/imported/ICity_Window AC.000+1Metallic.jpg-ICity_Window AC.000+1Roughness.jpg.png-28ce2e69c1e5dc8ad131c7c95a20cc04.s3tc.ctex"
+path.etc2="res://.godot/imported/ICity_Window AC.000+1Metallic.jpg-ICity_Window AC.000+1Roughness.jpg.png-28ce2e69c1e5dc8ad131c7c95a20cc04.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/ICity_Window AC.000+1Metallic.jpg-ICity_Window AC.000+1Roughness.jpg.png"
-dest_files=["res://.godot/imported/ICity_Window AC.000+1Metallic.jpg-ICity_Window AC.000+1Roughness.jpg.png-28ce2e69c1e5dc8ad131c7c95a20cc04.s3tc.ctex"]
+dest_files=["res://.godot/imported/ICity_Window AC.000+1Metallic.jpg-ICity_Window AC.000+1Roughness.jpg.png-28ce2e69c1e5dc8ad131c7c95a20cc04.s3tc.ctex", "res://.godot/imported/ICity_Window AC.000+1Metallic.jpg-ICity_Window AC.000+1Roughness.jpg.png-28ce2e69c1e5dc8ad131c7c95a20cc04.etc2.ctex"]
 
 [params]
 

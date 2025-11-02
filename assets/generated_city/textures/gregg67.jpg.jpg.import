@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://di6l14ixajjf1"
 path.s3tc="res://.godot/imported/gregg67.jpg.jpg-480a556e363f62cced3b817860dd2854.s3tc.ctex"
+path.etc2="res://.godot/imported/gregg67.jpg.jpg-480a556e363f62cced3b817860dd2854.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/gregg67.jpg.jpg"
-dest_files=["res://.godot/imported/gregg67.jpg.jpg-480a556e363f62cced3b817860dd2854.s3tc.ctex"]
+dest_files=["res://.godot/imported/gregg67.jpg.jpg-480a556e363f62cced3b817860dd2854.s3tc.ctex", "res://.godot/imported/gregg67.jpg.jpg-480a556e363f62cced3b817860dd2854.etc2.ctex"]
 
 [params]
 

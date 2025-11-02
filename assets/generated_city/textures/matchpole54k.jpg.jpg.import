@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b72jjvdlr4dnj"
 path.s3tc="res://.godot/imported/matchpole54k.jpg.jpg-3b3ad9c5e952d0e762fa1d2520f185a7.s3tc.ctex"
+path.etc2="res://.godot/imported/matchpole54k.jpg.jpg-3b3ad9c5e952d0e762fa1d2520f185a7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/matchpole54k.jpg.jpg"
-dest_files=["res://.godot/imported/matchpole54k.jpg.jpg-3b3ad9c5e952d0e762fa1d2520f185a7.s3tc.ctex"]
+dest_files=["res://.godot/imported/matchpole54k.jpg.jpg-3b3ad9c5e952d0e762fa1d2520f185a7.s3tc.ctex", "res://.godot/imported/matchpole54k.jpg.jpg-3b3ad9c5e952d0e762fa1d2520f185a7.etc2.ctex"]
 
 [params]
 

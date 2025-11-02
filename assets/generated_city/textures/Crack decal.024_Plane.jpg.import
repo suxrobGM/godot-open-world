@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://w4ecr5k5h5hv"
 path.s3tc="res://.godot/imported/Crack decal.024_Plane.jpg-ce83fc187dcb3aef13cbce8577dfcca1.s3tc.ctex"
+path.etc2="res://.godot/imported/Crack decal.024_Plane.jpg-ce83fc187dcb3aef13cbce8577dfcca1.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Crack decal.024_Plane.jpg"
-dest_files=["res://.godot/imported/Crack decal.024_Plane.jpg-ce83fc187dcb3aef13cbce8577dfcca1.s3tc.ctex"]
+dest_files=["res://.godot/imported/Crack decal.024_Plane.jpg-ce83fc187dcb3aef13cbce8577dfcca1.s3tc.ctex", "res://.godot/imported/Crack decal.024_Plane.jpg-ce83fc187dcb3aef13cbce8577dfcca1.etc2.ctex"]
 
 [params]
 

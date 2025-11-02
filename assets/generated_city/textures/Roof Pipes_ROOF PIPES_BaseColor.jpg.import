@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://273wr51jmkj5"
 path.s3tc="res://.godot/imported/Roof Pipes_ROOF PIPES_BaseColor.jpg-170826dabbb7b508a24be6295dbbf660.s3tc.ctex"
+path.etc2="res://.godot/imported/Roof Pipes_ROOF PIPES_BaseColor.jpg-170826dabbb7b508a24be6295dbbf660.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Roof Pipes_ROOF PIPES_BaseColor.jpg"
-dest_files=["res://.godot/imported/Roof Pipes_ROOF PIPES_BaseColor.jpg-170826dabbb7b508a24be6295dbbf660.s3tc.ctex"]
+dest_files=["res://.godot/imported/Roof Pipes_ROOF PIPES_BaseColor.jpg-170826dabbb7b508a24be6295dbbf660.s3tc.ctex", "res://.godot/imported/Roof Pipes_ROOF PIPES_BaseColor.jpg-170826dabbb7b508a24be6295dbbf660.etc2.ctex"]
 
 [params]
 

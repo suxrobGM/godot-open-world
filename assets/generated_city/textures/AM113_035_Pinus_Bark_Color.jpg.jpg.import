@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ha4cxbkav4h"
 path.s3tc="res://.godot/imported/AM113_035_Pinus_Bark_Color.jpg.jpg-860287d5127331bc861ea5cb91f19eaa.s3tc.ctex"
+path.etc2="res://.godot/imported/AM113_035_Pinus_Bark_Color.jpg.jpg-860287d5127331bc861ea5cb91f19eaa.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/AM113_035_Pinus_Bark_Color.jpg.jpg"
-dest_files=["res://.godot/imported/AM113_035_Pinus_Bark_Color.jpg.jpg-860287d5127331bc861ea5cb91f19eaa.s3tc.ctex"]
+dest_files=["res://.godot/imported/AM113_035_Pinus_Bark_Color.jpg.jpg-860287d5127331bc861ea5cb91f19eaa.s3tc.ctex", "res://.godot/imported/AM113_035_Pinus_Bark_Color.jpg.jpg-860287d5127331bc861ea5cb91f19eaa.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://m2nti8ero8a7"
 path.s3tc="res://.godot/imported/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg-f834e050c32431290a8f6cdd166d21b6.s3tc.ctex"
+path.etc2="res://.godot/imported/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg-f834e050c32431290a8f6cdd166d21b6.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg"
-dest_files=["res://.godot/imported/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg-f834e050c32431290a8f6cdd166d21b6.s3tc.ctex"]
+dest_files=["res://.godot/imported/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg-f834e050c32431290a8f6cdd166d21b6.s3tc.ctex", "res://.godot/imported/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg-f834e050c32431290a8f6cdd166d21b6.etc2.ctex"]
 
 [params]
 

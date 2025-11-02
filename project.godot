@@ -10,8 +10,9 @@ config_version=5
 
 [application]
 
-config/name="Mobile Game"
-config/features=PackedStringArray("4.4", "Mobile")
+config/name="Godot Open World"
+run/main_scene="uid://b4lc7waoth8v8"
+config/features=PackedStringArray("4.5", "Mobile")
 config/icon="res://assets/icon.svg"
 
 [filesystem]
@@ -21,3 +22,4 @@ import/blender/enabled=false
 [rendering]
 
 renderer/rendering_method="mobile"
+textures/vram_compression/import_etc2_astc=true

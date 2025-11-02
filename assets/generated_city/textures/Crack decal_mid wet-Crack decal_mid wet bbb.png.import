@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm786br5y47f7"
 path.s3tc="res://.godot/imported/Crack decal_mid wet-Crack decal_mid wet bbb.png-198ceb66e63fdf66d61f2317130b65b9.s3tc.ctex"
+path.etc2="res://.godot/imported/Crack decal_mid wet-Crack decal_mid wet bbb.png-198ceb66e63fdf66d61f2317130b65b9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Crack decal_mid wet-Crack decal_mid wet bbb.png"
-dest_files=["res://.godot/imported/Crack decal_mid wet-Crack decal_mid wet bbb.png-198ceb66e63fdf66d61f2317130b65b9.s3tc.ctex"]
+dest_files=["res://.godot/imported/Crack decal_mid wet-Crack decal_mid wet bbb.png-198ceb66e63fdf66d61f2317130b65b9.s3tc.ctex", "res://.godot/imported/Crack decal_mid wet-Crack decal_mid wet bbb.png-198ceb66e63fdf66d61f2317130b65b9.etc2.ctex"]
 
 [params]
 

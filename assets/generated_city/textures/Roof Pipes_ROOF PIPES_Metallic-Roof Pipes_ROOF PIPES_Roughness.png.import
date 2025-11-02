@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://rpiovxefxjfr"
 path.s3tc="res://.godot/imported/Roof Pipes_ROOF PIPES_Metallic-Roof Pipes_ROOF PIPES_Roughness.png-7214f43dd24a8058266e3183c3b1974d.s3tc.ctex"
+path.etc2="res://.godot/imported/Roof Pipes_ROOF PIPES_Metallic-Roof Pipes_ROOF PIPES_Roughness.png-7214f43dd24a8058266e3183c3b1974d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/generated_city/textures/Roof Pipes_ROOF PIPES_Metallic-Roof Pipes_ROOF PIPES_Roughness.png"
-dest_files=["res://.godot/imported/Roof Pipes_ROOF PIPES_Metallic-Roof Pipes_ROOF PIPES_Roughness.png-7214f43dd24a8058266e3183c3b1974d.s3tc.ctex"]
+dest_files=["res://.godot/imported/Roof Pipes_ROOF PIPES_Metallic-Roof Pipes_ROOF PIPES_Roughness.png-7214f43dd24a8058266e3183c3b1974d.s3tc.ctex", "res://.godot/imported/Roof Pipes_ROOF PIPES_Metallic-Roof Pipes_ROOF PIPES_Roughness.png-7214f43dd24a8058266e3183c3b1974d.etc2.ctex"]
 
 [params]
 
