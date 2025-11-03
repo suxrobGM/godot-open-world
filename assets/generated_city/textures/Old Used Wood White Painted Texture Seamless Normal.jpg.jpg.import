@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://m2nti8ero8a7"
+uid="uid://idcbqw5ue2cw"
 path.s3tc="res://.godot/imported/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg-f834e050c32431290a8f6cdd166d21b6.s3tc.ctex"
 path.etc2="res://.godot/imported/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg-f834e050c32431290a8f6cdd166d21b6.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Old Used Wood White Painted Texture Seamless Normal.jpg.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

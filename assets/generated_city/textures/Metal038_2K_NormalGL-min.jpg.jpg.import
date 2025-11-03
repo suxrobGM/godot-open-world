@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://boo55psp7xkx"
+uid="uid://cup1t7q7cnm81"
 path.s3tc="res://.godot/imported/Metal038_2K_NormalGL-min.jpg.jpg-9b53c2f018f5e1600d80a6ee30a5c01a.s3tc.ctex"
 path.etc2="res://.godot/imported/Metal038_2K_NormalGL-min.jpg.jpg-9b53c2f018f5e1600d80a6ee30a5c01a.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Metal038_2K_NormalGL-min.jpg.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

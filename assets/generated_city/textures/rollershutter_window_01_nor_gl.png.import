@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://53bdy32d2k2a"
+uid="uid://dvke3u1ck4gt8"
 path.s3tc="res://.godot/imported/rollershutter_window_01_nor_gl.png-0a274960c19b7b392cfa523ff4e14573.s3tc.ctex"
 path.etc2="res://.godot/imported/rollershutter_window_01_nor_gl.png-0a274960c19b7b392cfa523ff4e14573.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/rollershutter_window_01_nor_gl.png"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwu0xybwpqk3"
+uid="uid://w0siriqauxqf"
 path.s3tc="res://.godot/imported/painted_plaster_wall_nor_gl_2k.jpg-a87591df0b52c9899afa915860b9bbf5.s3tc.ctex"
 path.etc2="res://.godot/imported/painted_plaster_wall_nor_gl_2k.jpg-a87591df0b52c9899afa915860b9bbf5.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/painted_plaster_wall_nor_gl_2k.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

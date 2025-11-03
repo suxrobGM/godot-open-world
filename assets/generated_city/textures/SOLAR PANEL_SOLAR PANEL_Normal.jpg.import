@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c1oqdd1m3g2eo"
+uid="uid://cvm72gi30niqn"
 path.s3tc="res://.godot/imported/SOLAR PANEL_SOLAR PANEL_Normal.jpg-60d28941c1d5a718d800323cb0c5b0f8.s3tc.ctex"
 path.etc2="res://.godot/imported/SOLAR PANEL_SOLAR PANEL_Normal.jpg-60d28941c1d5a718d800323cb0c5b0f8.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/SOLAR PANEL_SOLAR PANEL_Normal.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

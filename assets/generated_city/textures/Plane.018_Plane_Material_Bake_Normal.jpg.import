@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c6i2a8ahty6dj"
+uid="uid://bsaxxncb636ls"
 path.s3tc="res://.godot/imported/Plane.018_Plane_Material_Bake_Normal.jpg-316bba7efd69211f7b95756a4e016a7f.s3tc.ctex"
 path.etc2="res://.godot/imported/Plane.018_Plane_Material_Bake_Normal.jpg-316bba7efd69211f7b95756a4e016a7f.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Plane.018_Plane_Material_Bake_Normal.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

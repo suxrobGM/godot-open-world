@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpuab56d3bb03"
+uid="uid://865vfcdvavn5"
 path.s3tc="res://.godot/imported/Next_Metal 3.jpg-49880c77be8fa1901a1d94c56da008b8.s3tc.ctex"
 path.etc2="res://.godot/imported/Next_Metal 3.jpg-49880c77be8fa1901a1d94c56da008b8.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Next_Metal 3.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

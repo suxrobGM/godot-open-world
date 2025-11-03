@@ -3,7 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bodnc7bnln7vb"
+uid="uid://ch4cut1yqt7sk"
 path="res://.godot/imported/generated_city.gltf-1254d596890ac623d18ab575478fb8ec.scn"
 
 [deps]
@@ -39,7 +39,19 @@ materials/extract_format=0
 materials/extract_path=""
 _subresources={
 "nodes": {
+"PATH:Building 11": {
+"generate/physics": true
+},
+"PATH:Building 13": {
+"generate/physics": true
+},
 "PATH:Building Base": {
+"generate/physics": true
+},
+"PATH:Grass": {
+"generate/physics": true
+},
+"PATH:Grid Trees (Low Poly)": {
 "generate/physics": true
 },
 "PATH:Path and Imperfections": {
@@ -51,6 +63,9 @@ _subresources={
 "PATH:Sidewalk Benches": {
 "generate/physics": true
 },
+"PATH:Sidewalk Imperfections": {
+"generate/physics": true
+},
 "PATH:Sidewalk Lights": {
 "generate/physics": true
 },
@@ -60,10 +75,10 @@ _subresources={
 "PATH:Sidewalk_001": {
 "generate/physics": true
 },
-"PATH:Trash Bins and Path Lights": {
+"PATH:Traffic Lights": {
 "generate/physics": true
 }
 }
 }
-gltf/naming_version=1
+gltf/naming_version=2
 gltf/embedded_image_handling=1

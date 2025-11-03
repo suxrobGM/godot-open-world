@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dd0h8av6govhw"
+uid="uid://hwa21aytick6"
 path.s3tc="res://.godot/imported/Plane.018.W_Bake1_PBR StoA_Normal.jpg-f445c592cd67d0b0e745eb9e688e19b6.s3tc.ctex"
 path.etc2="res://.godot/imported/Plane.018.W_Bake1_PBR StoA_Normal.jpg-f445c592cd67d0b0e745eb9e688e19b6.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Plane.018.W_Bake1_PBR StoA_Normal.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

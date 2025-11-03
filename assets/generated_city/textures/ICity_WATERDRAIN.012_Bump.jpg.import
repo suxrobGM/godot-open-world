@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bxui67a1nc7my"
+uid="uid://ba7vxkija1f1c"
 path.s3tc="res://.godot/imported/ICity_WATERDRAIN.012_Bump.jpg-9fd83c3810f6034d55af746e44a5294c.s3tc.ctex"
 path.etc2="res://.godot/imported/ICity_WATERDRAIN.012_Bump.jpg-9fd83c3810f6034d55af746e44a5294c.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/ICity_WATERDRAIN.012_Bump.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

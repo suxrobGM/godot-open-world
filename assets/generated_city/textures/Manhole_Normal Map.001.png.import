@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtc6mfmgdvts7"
+uid="uid://8altsqjtvbvm"
 path.s3tc="res://.godot/imported/Manhole_Normal Map.001.png-9e2ec795ce1ca9dd2276e5879b069ef6.s3tc.ctex"
 path.etc2="res://.godot/imported/Manhole_Normal Map.001.png-9e2ec795ce1ca9dd2276e5879b069ef6.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Manhole_Normal Map.001.png"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

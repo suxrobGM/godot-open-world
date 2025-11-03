@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://hsrmi3cbvnp3"
+uid="uid://g71eohmtsphx"
 path.s3tc="res://.godot/imported/RoadLines007_4K-JPG_NormalGL.jpg-3aff724da92c3742361218379c5e3b5a.s3tc.ctex"
 path.etc2="res://.godot/imported/RoadLines007_4K-JPG_NormalGL.jpg-3aff724da92c3742361218379c5e3b5a.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/RoadLines007_4K-JPG_NormalGL.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://b4lc7waoth8v8"]
 
 [ext_resource type="Script" uid="uid://0ux42p3q0ddr" path="res://src/main/kotlin/godot/PlayerController.kt" id="2_movw8"]
-[ext_resource type="PackedScene" uid="uid://bodnc7bnln7vb" path="res://assets/generated_city/generated_city.gltf" id="3_oacpt"]
+[ext_resource type="PackedScene" uid="uid://ch4cut1yqt7sk" path="res://assets/generated_city/generated_city.gltf" id="3_oacpt"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_player"]
 

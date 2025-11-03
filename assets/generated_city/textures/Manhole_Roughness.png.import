@@ -2,9 +2,9 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7o253xrfq24l"
-path.s3tc="res://.godot/imported/Manhole_Roughness.png-e088e039fb40a7d5ddba61f5149a6f47.s3tc.ctex"
-path.etc2="res://.godot/imported/Manhole_Roughness.png-e088e039fb40a7d5ddba61f5149a6f47.etc2.ctex"
+uid="uid://dkpn74pycb551"
+path.s3tc="res://.godot/imported/Manhole_roughness.png-64be19baa07be968d017ca3dcb32e799.s3tc.ctex"
+path.etc2="res://.godot/imported/Manhole_roughness.png-64be19baa07be968d017ca3dcb32e799.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/generated_city/textures/Manhole_Roughness.png"
-dest_files=["res://.godot/imported/Manhole_Roughness.png-e088e039fb40a7d5ddba61f5149a6f47.s3tc.ctex", "res://.godot/imported/Manhole_Roughness.png-e088e039fb40a7d5ddba61f5149a6f47.etc2.ctex"]
+source_file="res://assets/generated_city/textures/Manhole_roughness.png"
+dest_files=["res://.godot/imported/Manhole_roughness.png-64be19baa07be968d017ca3dcb32e799.s3tc.ctex", "res://.godot/imported/Manhole_roughness.png-64be19baa07be968d017ca3dcb32e799.etc2.ctex"]
 
 [params]
 

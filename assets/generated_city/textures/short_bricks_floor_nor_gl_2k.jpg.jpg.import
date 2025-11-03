@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtqiyjgaebbwr"
+uid="uid://ct3e4isp8mhg2"
 path.s3tc="res://.godot/imported/short_bricks_floor_nor_gl_2k.jpg.jpg-e040482a080f06dd298e4f9a148087d9.s3tc.ctex"
 path.etc2="res://.godot/imported/short_bricks_floor_nor_gl_2k.jpg.jpg-e040482a080f06dd298e4f9a148087d9.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/short_bricks_floor_nor_gl_2k.jpg.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

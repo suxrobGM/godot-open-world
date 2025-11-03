@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cpx8ihybjtrti"
+uid="uid://bxi3d1ijcr5fe"
 path.s3tc="res://.godot/imported/Air Conditionar.001_Normal.jpg.jpg-57c26cb8465729505e77944c9bbf13d0.s3tc.ctex"
 path.etc2="res://.godot/imported/Air Conditionar.001_Normal.jpg.jpg-57c26cb8465729505e77944c9bbf13d0.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Air Conditionar.001_Normal.jpg.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bqn4wxkmq44f2"
+uid="uid://0kw3aovwdwpt"
 path.s3tc="res://.godot/imported/ICity_Road_Asphalt_Materials.jpg-c7f1c69aeb3a5dad28b33a1c96aac8c8.s3tc.ctex"
 path.etc2="res://.godot/imported/ICity_Road_Asphalt_Materials.jpg-c7f1c69aeb3a5dad28b33a1c96aac8c8.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/ICity_Road_Asphalt_Materials.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

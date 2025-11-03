@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwdmtww2iwr20"
+uid="uid://dp7mb8sub7y16"
 path.s3tc="res://.godot/imported/1_ac 04..3_Normal.jpg.jpg-8b19f676d5899b821edb48d90f420f0a.s3tc.ctex"
 path.etc2="res://.godot/imported/1_ac 04..3_Normal.jpg.jpg-8b19f676d5899b821edb48d90f420f0a.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/1_ac 04..3_Normal.jpg.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

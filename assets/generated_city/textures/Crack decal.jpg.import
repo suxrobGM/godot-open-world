@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://btpybywy6pmli"
+uid="uid://binnnq8ubvh3y"
 path.s3tc="res://.godot/imported/Crack decal.jpg-0b8d2115453c4718b8d5986c1e61ee34.s3tc.ctex"
 path.etc2="res://.godot/imported/Crack decal.jpg-0b8d2115453c4718b8d5986c1e61ee34.etc2.ctex"
 metadata={
@@ -27,8 +27,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://assets/generated_city/textures/Crack decal.jpg"
+roughness/mode=0
+roughness/src_normal=""
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2
