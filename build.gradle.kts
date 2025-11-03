@@ -1,12 +1,8 @@
 plugins {
     id("com.utopia-rise.godot-kotlin-jvm") version "0.14.3-4.5.1"
-    id("com.android.library") version "8.13.0" apply false
-    kotlin("android") version "2.1.0" apply false
-    kotlin("plugin.compose") version "2.1.0" apply false
 }
 
 repositories {
-    google()
     mavenCentral()
 }
 
@@ -56,23 +52,4 @@ godot {
     //classPrefix.set("MyCustomClassPrefix")
     //projectName.set("LibraryProjectName")
     //projectName.set("LibraryProjectName")
-}
-
-// Jetpack Compose dependencies for Android
-dependencies {
-    // Compose BOM for version management
-    implementation(platform("androidx.compose:compose-bom:2025.10.01"))
-
-    // Compose UI dependencies
-    implementation("androidx.compose.ui:ui")
-    implementation("androidx.compose.ui:ui-graphics")
-    implementation("androidx.compose.ui:ui-tooling-preview")
-    implementation("androidx.compose.material3:1.4.0")
-
-    // Activity Compose for integration
-    implementation("androidx.activity:activity-compose:1.11.0")
-
-    // Lifecycle
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.9.4")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.4")
 }

@@ -6,6 +6,7 @@ import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideOutHorizontally
+import androidx.compose.animation.togetherWith
 import androidx.compose.animation.with
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -38,11 +39,11 @@ import com.suxrobgm.openworld.ui.theme.GameMenuTheme
  */
 @OptIn(ExperimentalAnimationApi::class)
 @Composable
-fun EnhancedGameMenuScreen(
-    onStartGame: () -> Unit,
-    onSettings: () -> Unit,
-    onCredits: () -> Unit,
-    onQuit: () -> Unit
+fun MainMenuScreen(
+    onStartGame: () -> Unit = {},
+    onSettings: () -> Unit = {},
+    onCredits: () -> Unit = {},
+    onQuit: () -> Unit = {}
 ) {
     var currentScreen by remember { mutableStateOf(MenuScreen.MAIN) }
 
@@ -62,12 +63,13 @@ fun EnhancedGameMenuScreen(
         AnimatedContent(
             targetState = currentScreen,
             transitionSpec = {
-                fadeIn() + slideInHorizontally() with fadeOut() + slideOutHorizontally()
+                (fadeIn() + slideInHorizontally())
+                    .togetherWith(fadeOut() + slideOutHorizontally())
             },
             label = "menu_navigation"
         ) { screen ->
             when (screen) {
-                MenuScreen.MAIN -> MainMenu(
+                MenuScreen.MAIN -> MainMenuContent(
                     onStartGame = onStartGame,
                     onSettings = { currentScreen = MenuScreen.SETTINGS },
                     onCredits = { currentScreen = MenuScreen.CREDITS },
@@ -87,7 +89,7 @@ fun EnhancedGameMenuScreen(
 }
 
 @Composable
-fun MainMenu(
+private fun MainMenuContent(
     onStartGame: () -> Unit,
     onSettings: () -> Unit,
     onCredits: () -> Unit,
@@ -155,7 +157,7 @@ fun MainMenu(
 
         // Version info
         Text(
-            text = "Version 1.0.0 - Alpha",
+            text = "Version 0.1.0",
             style = MaterialTheme.typography.bodySmall,
             color = Color.Gray
         )
@@ -166,26 +168,11 @@ enum class MenuScreen {
     MAIN, SETTINGS, CREDITS
 }
 
-// ========== Previews ==========
-
 @Preview(showBackground = true)
 @Composable
-fun EnhancedGameMenuScreenPreview() {
+fun MainMenuScreenPreview() {
     GameMenuTheme {
-        EnhancedGameMenuScreen(
-            onStartGame = {},
-            onSettings = {},
-            onCredits = {},
-            onQuit = {}
-        )
-    }
-}
-
-@Preview(showBackground = true)
-@Composable
-fun MainMenuPreview() {
-    GameMenuTheme {
-        MainMenu(
+        MainMenuScreen(
             onStartGame = {},
             onSettings = {},
             onCredits = {},

@@ -19,20 +19,4 @@ mono_crash.*.json
 .kotlin
 .idea
 build/
-**/*/build/
 jvm
-
-# Android Studio specific ignores
-*.iml
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/captures
-.externalNativeBuild
-.cxx
-local.properties

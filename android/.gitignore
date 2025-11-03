@@ -1,0 +1,41 @@
+### Android ###
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+.gradle/
+build/
+local.properties
+proguard/
+*.log
+
+### Android Studio ###
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/.name
+.idea/assetWizardSettings.xml
+*.iml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+*.hprof
+
+### Gradle ###
+.gradle
+/build/
+!gradle-wrapper.jar
+gradle-app.setting
+!gradle-wrapper.properties
+
+### Kotlin ###
+*.kt.swp
+*.kts.swp

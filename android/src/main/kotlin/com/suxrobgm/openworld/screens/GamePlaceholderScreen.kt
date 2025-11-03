@@ -23,7 +23,7 @@ import com.suxrobgm.openworld.ui.theme.GameMenuTheme
  */
 @Composable
 fun GamePlaceholderScreen(
-    onBackToMenu: () -> Unit
+    onBackToMenu: () -> Unit = {}
 ) {
     Box(
         modifier = Modifier

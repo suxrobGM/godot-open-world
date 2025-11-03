@@ -15,10 +15,8 @@ fun MainScreen(onQuit: () -> Unit = {}) {
     Surface {
         when (currentScreen) {
             Screen.MENU -> {
-                EnhancedGameMenuScreen(
+                MainMenuScreen(
                     onStartGame = { currentScreen = Screen.GAME },
-                    onSettings = { /* Handled internally */ },
-                    onCredits = { /* Handled internally */ },
                     onQuit = onQuit
                 )
             }
