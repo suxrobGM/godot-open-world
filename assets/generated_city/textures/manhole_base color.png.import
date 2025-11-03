@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1dfcfh5jumwm"
-path.s3tc="res://.godot/imported/Manhole_base Color.png-baca1fa6913c164a0413c6e72edadd36.s3tc.ctex"
-path.etc2="res://.godot/imported/Manhole_base Color.png-baca1fa6913c164a0413c6e72edadd36.etc2.ctex"
+path.s3tc="res://.godot/imported/manhole_base color.png-76124b20bd20a934ba00fdb8e23b05ec.s3tc.ctex"
+path.etc2="res://.godot/imported/manhole_base color.png-76124b20bd20a934ba00fdb8e23b05ec.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/generated_city/textures/Manhole_base Color.png"
-dest_files=["res://.godot/imported/Manhole_base Color.png-baca1fa6913c164a0413c6e72edadd36.s3tc.ctex", "res://.godot/imported/Manhole_base Color.png-baca1fa6913c164a0413c6e72edadd36.etc2.ctex"]
+source_file="res://assets/generated_city/textures/manhole_base color.png"
+dest_files=["res://.godot/imported/manhole_base color.png-76124b20bd20a934ba00fdb8e23b05ec.s3tc.ctex", "res://.godot/imported/manhole_base color.png-76124b20bd20a934ba00fdb8e23b05ec.etc2.ctex"]
 
 [params]
 

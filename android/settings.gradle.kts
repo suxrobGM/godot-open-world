@@ -14,4 +14,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Godot Open World"
+rootProject.name = "Godot Open World Android"
