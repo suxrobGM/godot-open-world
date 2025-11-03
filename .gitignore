@@ -15,9 +15,24 @@ export_credentials.cfg
 data_*/
 mono_crash.*.json
 
-/android/
 .gradle
 .kotlin
 .idea
-build
+build/
+**/*/build/
 jvm
+
+# Android Studio specific ignores
+*.iml
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties

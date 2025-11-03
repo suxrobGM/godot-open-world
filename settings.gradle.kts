@@ -1,3 +1,10 @@
+pluginManagement {
+    repositories {
+        google()
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
 
 plugins {
     // to automatically download the toolchain jdk if missing
@@ -5,3 +12,6 @@ plugins {
 }
 
 rootProject.name = "Godot Open World"
+
+// Include Android module for Jetpack Compose integration
+include(":android")

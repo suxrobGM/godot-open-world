@@ -1,6 +1,5 @@
-[gd_scene load_steps=6 format=3 uid="uid://b4lc7waoth8v8"]
+[gd_scene load_steps=5 format=3 uid="uid://b4lc7waoth8v8"]
 
-[ext_resource type="Script" uid="uid://ccmcpfmbgtcmt" path="res://src/main/kotlin/godot/HelloGodot.kt" id="1_rqxma"]
 [ext_resource type="Script" uid="uid://0ux42p3q0ddr" path="res://src/main/kotlin/godot/PlayerController.kt" id="2_movw8"]
 [ext_resource type="PackedScene" uid="uid://bodnc7bnln7vb" path="res://assets/generated_city/generated_city.gltf" id="3_oacpt"]
 
@@ -9,8 +8,6 @@
 [sub_resource type="CapsuleShape3D" id="CapsuleShape_player"]
 
 [node name="Node3D" type="Node3D"]
-script = ExtResource("1_rqxma")
-hello_string = null
 
 [node name="Player" type="CharacterBody3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0751, 34.42)
